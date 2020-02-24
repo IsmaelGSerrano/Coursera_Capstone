@@ -1,0 +1,135 @@
+,Longitude,Latitude,line,station,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+0,2.142987,41.424923,"METRO (L3, L5)","VALL D'HEBRON/METRO (L3, L5)",4,Restaurant,Soccer Stadium,Bakery,Athletics & Sports,Farmers Market,Basketball Court,Bar,Stadium,Soccer Field,Grocery Store
+1,2.158326,41.392331,FGC,PROVENÇA/FGC,2,Hotel,Restaurant,Mediterranean Restaurant,Cocktail Bar,Tapas Restaurant,Boutique,Sandwich Place,Hostel,Burger Joint,Gym
+2,2.11937,41.399203,FGC (L6),REINA ELISENDA/FGC (L6),1,Restaurant,Coffe Shop,Bakery,Breakfast Spot,Tapas Restaurant,Mediterranean Restaurant,Dessert Shop,Pedestrian Plaza,Burger Joint,Diner
+3,2.135427,41.397791,FGC (L6),LA BONANOVA/FGC (L6),1,Restaurant,Japanese Restaurant,Italian Restaurant,Coffe Shop,Gastropub,Salad Place,Bakery,Gym,Burger Joint,Bistro
+4,2.185391,41.451492,METRO (L11),CASA DE L'AIGUA/METRO (L11),5,Restaurant,Park,Breakfast Spot,Grocery Store,Pharmacy,Pie Shop,Food Court,Monument / Landmark,South American Restaurant,Taco Place
+5,2.174473,41.460889,METRO (L11),CIUTAT MERIDIANA/METRO (L11),4,Mediterranean Restaurant,Plaza,Park,Grocery Store,Supermarket,Neighborhood,Comfort Food Restaurant,Food Court,Football Stadium,Monument / Landmark
+6,2.168588,41.3872,METRO (L1),CATALUNYA/METRO (L1),2,Hotel,Coffe Shop,Tapas Restaurant,Bookstore,Plaza,Restaurant,Clothing Store,Theater,Sporting Goods Shop,Cocktail Bar
+10,2.179581,41.40018,METRO (L2),MONUMENTAL/METRO (L2),1,Restaurant,Coffe Shop,Hotel,Grocery Store,Tapas Restaurant,Mexican Restaurant,Mediterranean Restaurant,Bakery,Bed & Breakfast,Indian Restaurant
+11,2.153966,41.37907,METRO (L1),ROCAFORT/METRO (L1),1,Coffe Shop,Hotel,Tapas Restaurant,Mediterranean Restaurant,Restaurant,Burger Joint,Bar,Indian Restaurant,Gym,Cocktail Bar
+12,2.168735,41.389295,METRO (L2),PASSEIG DE GRÀCIA/METRO (L2),2,Hotel,Restaurant,Tapas Restaurant,Mediterranean Restaurant,Clothing Store,Hostel,Coffe Shop,Sporting Goods Shop,Bookstore,Cocktail Bar
+14,2.161228,41.430042,METRO (L5),HORTA/METRO (L5),9,Restaurant,Tapas Restaurant,Coffe Shop,Pizza Place,Food & Drink Shop,Burger Joint,Gym,Sandwich Place,Mediterranean Restaurant,Pub
+16,2.197653,41.411242,"TRAMVIA (T5, T6)","ESPRONCEDA/TRAMVIA (T5, T6)",9,Supermarket,Restaurant,Tapas Restaurant,Mediterranean Restaurant,Asian Restaurant,Burger Joint,Tennis Court,Music Store,Historic Site,Bus Station
+17,2.115012,41.38048,"TRAMVIA (T1,T2,T3)","AVINGUDA DE XILE/TRAMVIA (T1,T2,T3)",0,Restaurant,Gym,Bar,Nightclub,Soccer Field,Coffe Shop,Supermarket,Mediterranean Restaurant,Hotel,Hockey Arena
+20,2.2198290000000003,41.411777,TRAMVIA (T4),FÒRUM/TRAMVIA (T4),1,Restaurant,Coffe Shop,Clothing Store,Hotel,Italian Restaurant,Tapas Restaurant,Burger Joint,Fried Chicken Joint,Sporting Goods Shop,Fast Food Restaurant
+25,2.1331900000000004,41.373293,METRO (L1),MERCAT NOU/METRO (L1),7,Coffe Shop,Mediterranean Restaurant,Tapas Restaurant,Hostel,Bakery,Italian Restaurant,Bar,Supermarket,Pie Shop,Plaza
+26,2.145478,41.378565,METRO (L3),TARRAGONA/METRO (L3),1,Restaurant,Hotel,Coffe Shop,Gym,Bar,Tapas Restaurant,Park,Grocery Store,Burger Joint,Pizza Place
+27,2.147798,41.434855,METRO (L3),MUNDET/METRO (L3),4,Restaurant,Plaza,Coffe Shop,Hotel,Soccer Field,Gym,Stadium,Garden,Soccer Stadium,Chinese Restaurant
+29,2.215909,41.41174,METRO (L4),EL MARESME/METRO (L4),1,Coffe Shop,Restaurant,Hotel,Clothing Store,Italian Restaurant,Burger Joint,Tapas Restaurant,Diner,Fried Chicken Joint,Juice Bar
+30,2.163252,41.385015,METRO (L2),UNIVERSITAT/METRO (L2),1,Coffe Shop,Hotel,Cocktail Bar,Bookstore,Mediterranean Restaurant,Vegetarian / Vegan Restaurant,Bar,Restaurant,Gym,Beer Bar
+35,2.127857,41.388357,METRO (L3),MARIA CRISTINA/METRO (L3),0,Restaurant,Coffe Shop,Supermarket,Bar,Sandwich Place,Diner,Japanese Restaurant,Cocktail Bar,Burger Joint,Vegetarian / Vegan Restaurant
+37,2.178826,41.444145,METRO (L4),VIA JÚLIA/METRO (L4),5,Restaurant,Grocery Store,Park,Gift Shop,Sports Club,Building,Bar,Pizza Place,Plaza,Port
+38,2.141603,41.380858,METRO (L3),SANTS ESTACIÓ/METRO (L3),0,Restaurant,Hotel,Coffe Shop,Grocery Store,Tapas Restaurant,Mediterranean Restaurant,Supermarket,Burger Joint,Park,Nightclub
+39,2.171334,41.394796,METRO (L4),GIRONA/METRO (L4),2,Hotel,Coffe Shop,Restaurant,Hostel,Burger Joint,Tapas Restaurant,Seafood Restaurant,Pizza Place,Gym,BBQ Joint
+40,2.172883,41.436715,METRO (L4),LLUCMAJOR/METRO (L4),9,Plaza,Grocery Store,Restaurant,Tapas Restaurant,Pizza Place,Seafood Restaurant,Bakery,Supermarket,Snack Place,South American Restaurant
+41,2.127313,41.375605,METRO (L5),BADAL/METRO (L5),9,Pizza Place,Restaurant,Bakery,Supermarket,Tapas Restaurant,Hostel,Gym,Coffe Shop,Mexican Restaurant,Sushi Restaurant
+42,2.202855,41.403481,METRO (L4),POBLENOU/METRO (L4),1,Restaurant,Mediterranean Restaurant,Pizza Place,Italian Restaurant,Coffe Shop,Hotel,Tapas Restaurant,Cocktail Bar,Bakery,Argentinian Restaurant
+43,2.180781,41.423505,METRO (L5),CONGRÉS/METRO (L5),9,Tapas Restaurant,Restaurant,Gym,Grocery Store,Supermarket,Pizza Place,Farmers Market,Pharmacy,Sandwich Place,Dog Run
+44,2.14909,41.374291,METRO (L3),ESPANYA/METRO (L3),7,Restaurant,Coffe Shop,Tapas Restaurant,Plaza,Hotel,Bar,Seafood Restaurant,Gym,Peruvian Restaurant,Liquor Store
+46,2.1550130000000003,41.423558,METRO (L5),EL CARMEL/METRO (L5),4,Coffe Shop,Park,Food Court,Plaza,Grocery Store,Supermarket,Gym,Skate Park,Football Stadium,Monument / Landmark
+50,2.1495040000000003,41.419877,METRO (L5),EL COLL / LA TEIXONERA/METRO (L5),3,Scenic Lookout,Park,Hotel,Mediterranean Restaurant,Bakery,Mountain,Rock Club,Toy / Game Store,Food Court,Football Stadium
+51,2.176315,41.404257,METRO (L2),SAGRADA FAMÍLIA/METRO (L2),1,Coffe Shop,Restaurant,Italian Restaurant,Hotel,Plaza,Burger Joint,Bakery,Wine Bar,Sandwich Place,Latin American Restaurant
+52,2.16623,41.412431,METRO (L4),ALFONS X/METRO (L4),9,Coffe Shop,Grocery Store,Restaurant,Tapas Restaurant,Bakery,Chinese Restaurant,Gym,Park,Soccer Field,Seafood Restaurant
+56,2.170433,41.375177,METRO (L3),PARAL·LEL/METRO (L3),7,Tapas Restaurant,Hotel,Bar,Cocktail Bar,Restaurant,Theater,Plaza,Seafood Restaurant,Pizza Place,Nightclub
+57,2.135427,41.397791,FGC,BONANOVA/FGC,1,Restaurant,Japanese Restaurant,Italian Restaurant,Coffe Shop,Gastropub,Salad Place,Bakery,Gym,Burger Joint,Bistro
+58,2.139248,41.405731,FGC,EL PUTXET/FGC,1,Bakery,Japanese Restaurant,Seafood Restaurant,Plaza,Restaurant,Coffe Shop,Mediterranean Restaurant,Tapas Restaurant,Park,Deli / Bodega
+62,2.125112,41.39896,FGC,SARRIÀ/FGC,1,Restaurant,Bakery,Mediterranean Restaurant,Coffe Shop,Hotel,Breakfast Spot,Burger Joint,Pizza Place,Pedestrian Plaza,Grocery Store
+65,2.186428,41.39558,METRO (L1),MARINA/METRO (L1),1,Coffe Shop,Restaurant,Bakery,Mediterranean Restaurant,Gym,Theater,Rock Club,Bar,Supermarket,Music Venue
+67,2.189397,41.410259,Tren AEROPORT,CLOT/Tren AEROPORT,1,Restaurant,Coffe Shop,Tapas Restaurant,Hotel,Mediterranean Restaurant,Bakery,Bar,Dessert Shop,Cocktail Bar,Chinese Restaurant
+68,2.134953,41.412807,TRAMVIA BLAU,AV. TIBIDABO/TRAMVIA BLAU,4,Plaza,Park,Restaurant,Mediterranean Restaurant,Grocery Store,Bakery,Cocktail Bar,Planetarium,Bar,Supermarket
+73,2.209671,41.408202,METRO (L4),SELVA DE MAR/METRO (L4),1,Coffe Shop,Hotel,Mediterranean Restaurant,Restaurant,Pizza Place,Diner,Breakfast Spot,Bistro,Track,Sports Club
+75,2.130075,41.398154,FGC (L6),LES TRES TORRES/FGC (L6),0,Restaurant,Hotel,Mediterranean Restaurant,Burger Joint,Pizza Place,Pedestrian Plaza,Doctor's Office,Italian Restaurant,Seafood Restaurant,Mexican Restaurant
+76,2.142617,41.403596,FGC,PADUA/FGC,1,Bakery,Italian Restaurant,Mediterranean Restaurant,Plaza,Wine Bar,Deli / Bodega,Hotel,Grocery Store,Supermarket,Japanese Restaurant
+79,2.137173,41.410227,FGC,AVINGUDA DEL TIBIDABO/FGC,9,Bakery,Coffe Shop,Restaurant,Park,Seafood Restaurant,Grocery Store,Supermarket,Plaza,Mediterranean Restaurant,Breakfast Spot
+80,2.175485,41.394285,METRO (L2),TETUAN/METRO (L2),2,Hotel,Coffe Shop,Hostel,Restaurant,Mediterranean Restaurant,Burger Joint,Tapas Restaurant,Bistro,Breakfast Spot,Chinese Restaurant
+81,2.17912,41.459624,METRO (L11),TORRE BARÓ/METRO (L11),4,Plaza,Park,Grocery Store,Neighborhood,Rock Club,Toy / Game Store,Food Court,Football Stadium,Monument / Landmark,South American Restaurant
+83,2.176558,41.425638,METRO (L5),MARAGALL/METRO (L5),7,Bar,Tapas Restaurant,Restaurant,Coffe Shop,Cocktail Bar,Grocery Store,Gym,Brewery,Seafood Restaurant,Japanese Restaurant
+84,2.160904,41.395745,METRO (L3),DIAGONAL/METRO (L3),2,Hotel,Mediterranean Restaurant,Boutique,Restaurant,Tapas Restaurant,Cocktail Bar,Bakery,Coffe Shop,Hostel,Clothing Store
+86,2.145084,41.411401,METRO (L3),VALLCARCA/METRO (L3),1,Coffe Shop,Hotel,Sandwich Place,Bakery,Supermarket,Burger Joint,Park,Grocery Store,Breakfast Spot,Restaurant
+87,2.15177,41.388946,METRO (L5),HOSPITAL CLÍNIC/METRO (L5),0,Restaurant,Cocktail Bar,Coffe Shop,Tapas Restaurant,Mediterranean Restaurant,Japanese Restaurant,Bakery,Burger Joint,Hotel,Mexican Restaurant
+88,2.131389,41.384545,METRO (L3),LES CORTS/METRO (L3),9,Restaurant,Coffe Shop,Mediterranean Restaurant,Supermarket,Vegetarian / Vegan Restaurant,Bakery,Cocktail Bar,Gym,Burger Joint,Grocery Store
+89,2.183562,41.430861,METRO (L1),FABRA I PUIG/METRO (L1),9,Restaurant,Grocery Store,Bakery,Tapas Restaurant,Mediterranean Restaurant,Park,Bookstore,Brewery,Hot Dog Joint,Sandwich Place
+91,2.137493,41.37525,METRO (L1),PLAÇA DE SANTS/METRO (L1),7,Tapas Restaurant,Bar,Italian Restaurant,Mediterranean Restaurant,Coffe Shop,Hotel,Wine Bar,Middle Eastern Restaurant,Pizza Place,Supermarket
+93,2.187086,41.416156,METRO (L1),NAVAS/METRO (L1),9,Supermarket,Grocery Store,Restaurant,Coffe Shop,Italian Restaurant,Gym,Brewery,Cooking School,Japanese Restaurant,Middle Eastern Restaurant
+95,2.180119,41.372103,Transbordador del Port,Jaume I/Transbordador del Port,1,Coffe Shop,Pier,Park,Clothing Store,Boat or Ferry,Food Truck,Cosmetics Shop,Donut Shop,Hotel,Mediterranean Restaurant
+104,2.181952,41.393385,RENFE,ARC DE TRIOMF/RENFE,1,Coffe Shop,Hotel,Restaurant,Bistro,Gym,Pizza Place,Hostel,Mediterranean Restaurant,Chinese Restaurant,Breakfast Spot
+106,2.142362,41.375134,METRO (L1),HOSTAFRANCS/METRO (L1),7,Tapas Restaurant,Pizza Place,Restaurant,Hotel,Bar,Mediterranean Restaurant,Bakery,Hot Dog Joint,Nightclub,Wine Bar
+107,2.163163,41.406001,METRO (L4),JOANIC/METRO (L4),7,Tapas Restaurant,Bar,Coffe Shop,Restaurant,Plaza,Pizza Place,Mediterranean Restaurant,Mexican Restaurant,Brewery,Vegetarian / Vegan Restaurant
+110,2.177118,41.44795,METRO (L3),ROQUETES/METRO (L3),9,Restaurant,Gym,Music Venue,Sports Club,Falafel Restaurant,Castle,Diner,Gym Pool,Pharmacy,Grocery Store
+111,2.184457,41.449665,METRO (L3),TRINITAT NOVA/METRO (L3),5,Restaurant,Park,Breakfast Spot,Grocery Store,Music Venue,Tapas Restaurant,Pharmacy,Juice Bar,Rock Club,Football Stadium
+118,2.16169,41.375204,METRO (L3),POBLE SEC/METRO (L3),7,Tapas Restaurant,Coffe Shop,Restaurant,Pizza Place,Cocktail Bar,Italian Restaurant,Bar,Beer Bar,Brewery,Burger Joint
+119,2.174845,41.429404,METRO (L5),VIRREI AMAT/METRO (L5),7,Coffe Shop,Tapas Restaurant,Bar,Restaurant,Grocery Store,Asian Restaurant,Food,Diner,Supermarket,Plaza
+123,2.142754,41.398631,FGC,MUNTANER/FGC,1,Mediterranean Restaurant,Restaurant,Coffe Shop,Italian Restaurant,Grocery Store,Japanese Restaurant,Deli / Bodega,Park,Plaza,Bar
+124,2.167494,41.399121,METRO (L5),VERDAGUER/METRO (L5),7,Restaurant,Tapas Restaurant,Italian Restaurant,Hotel,Mediterranean Restaurant,Bakery,Japanese Restaurant,Hostel,Vegetarian / Vegan Restaurant,Bar
+125,2.195013,41.415283,METRO (L2),BAC DE RODA/METRO (L2),9,Supermarket,Gym,Restaurant,Park,Food & Drink Shop,Burger Joint,Grocery Store,Bakery,Soccer Field,Mediterranean Restaurant
+126,2.193133,41.429748,"METRO (L9, L10)","ONZE DE SETEMBRE/METRO (L9, L10)",9,Supermarket,Coffe Shop,Tapas Restaurant,Mediterranean Restaurant,Italian Restaurant,Soccer Field,Restaurant,Breakfast Spot,Organic Grocery,Health Food Store
+129,2.182802,41.407068,METRO (L2),ENCANTS/METRO (L2),1,Restaurant,Coffe Shop,Gym,Sandwich Place,Hotel,Hot Dog Joint,Mediterranean Restaurant,Hostel,Burger Joint,Farmers Market
+130,2.151636,41.399679,"FGC (L6,L7)","GRÀCIA/FGC (L6,L7)",7,Tapas Restaurant,Restaurant,Mediterranean Restaurant,Coffe Shop,Plaza,Japanese Restaurant,Bar,Ice Cream Shop,Pizza Place,Grocery Store
+133,2.157006,41.438128000000006,METRO (L3),VALLDAURA/METRO (L3),9,Restaurant,Park,Soccer Stadium,Soccer Field,Outdoors & Recreation,Supermarket,Bakery,Hostel,Hotel,Tapas Restaurant
+135,2.190501,41.442298,METRO (L1),TORRAS I BAGES/METRO (L1),9,Restaurant,Grocery Store,Pizza Place,Plaza,Supermarket,Bakery,Mexican Restaurant,Department Store,Japanese Restaurant,Pharmacy
+137,2.187098,41.402063,METRO (L1),GLÒRIES/METRO (L1),2,Hotel,Restaurant,Mediterranean Restaurant,Theater,Clothing Store,Tapas Restaurant,Hostel,Climbing Gym,Art Museum,Coffe Shop
+140,2.187272,41.423089,METRO (L1),LA SAGRERA/METRO (L1),9,Restaurant,Grocery Store,Burger Joint,Bar,Supermarket,Gym,Bakery,Plaza,Tapas Restaurant,Playground
+143,2.213571,41.417238,"TRAMVIA (T5, T6)","ALFONS EL MAGNÀNIM/TRAMVIA (T5, T6)",9,Restaurant,Grocery Store,Food & Drink Shop,Skate Park,Diner,Big Box Store,Supermarket,Bakery,Climbing Gym,Coffe Shop
+145,2.193551,41.408024,"TRAMVIA (T5, T6)","CAN JAUMANDREU/TRAMVIA (T5, T6)",0,Restaurant,Tapas Restaurant,Mediterranean Restaurant,Japanese Restaurant,Supermarket,Clothing Store,Park,Cocktail Bar,Vegetarian / Vegan Restaurant,Dessert Shop
+146,2.147016,41.401372,FGC,SANT GERVASI/FGC,1,Coffe Shop,Mediterranean Restaurant,Restaurant,Pizza Place,Hotel,Tapas Restaurant,Plaza,Wine Bar,Grocery Store,Bakery
+155,2.159449,41.382955,METRO (L1),URGELL/METRO (L1),7,Coffe Shop,Cocktail Bar,Restaurant,Tapas Restaurant,Mediterranean Restaurant,Bar,Japanese Restaurant,Hotel,Gay Bar,Wine Bar
+156,2.163015,41.379953,METRO (L2),SANT ANTONI/METRO (L2),1,Coffe Shop,Bar,Restaurant,Cocktail Bar,Mediterranean Restaurant,Hotel,Bookstore,Pizza Place,Argentinian Restaurant,Wine Bar
+158,2.166992,41.430601,METRO (L5),VILAPICINA/METRO (L5),9,Restaurant,Tapas Restaurant,Supermarket,Pizza Place,Pub,Italian Restaurant,Breakfast Spot,Hot Dog Joint,Coffe Shop,Pharmacy
+163,2.175987,41.377112,METRO (L3),DRASSANES/METRO (L3),7,Restaurant,Bar,Tapas Restaurant,Hotel,Italian Restaurant,Mediterranean Restaurant,Cocktail Bar,Coffe Shop,Pizza Place,Seafood Restaurant
+168,2.176324,41.41102100000001,METRO (L5),SANT PAU/METRO (L5),1,Restaurant,Bakery,Hotel,Supermarket,Italian Restaurant,Coffe Shop,Grocery Store,Bar,Pizza Place,Japanese Restaurant
+170,2.203312,41.40744,TRAMVIA (T4),FLUVIÀ/TRAMVIA (T4),1,Mediterranean Restaurant,Pizza Place,Restaurant,Park,Bakery,Hotel,Coffe Shop,Amphitheater,Bistro,Hot Dog Joint
+174,2.118013,41.385808,METRO (L3),PALAU REIAL/METRO (L3),1,Restaurant,Coffe Shop,Hotel,Mediterranean Restaurant,Garden,Bar,German Restaurant,Donut Shop,Print Shop,Breakfast Spot
+183,2.185449,41.384232,RENFE,DE FRANÇA/RENFE,7,Tapas Restaurant,Cocktail Bar,Bar,Wine Bar,Restaurant,Coffe Shop,Hotel,Mediterranean Restaurant,Mexican Restaurant,Dessert Shop
+184,2.183101,41.430862,RENFE,SANT ANDREU ARENAL/RENFE,9,Restaurant,Grocery Store,Tapas Restaurant,Mediterranean Restaurant,Park,Bakery,Asian Restaurant,Sandwich Place,Food,Pet Store
+187,2.18566,41.382674,METRO (L4),BARCELONETA/METRO (L4),7,Tapas Restaurant,Cocktail Bar,Restaurant,Wine Bar,Seafood Restaurant,Bar,Mediterranean Restaurant,Burger Joint,Coffe Shop,Mexican Restaurant
+188,2.206472,41.423961,METRO (L4),LA PAU/METRO (L4),9,Coffe Shop,Tapas Restaurant,Restaurant,Supermarket,Athletics & Sports,Art Gallery,Pharmacy,Bar,Fast Food Restaurant,Park
+195,2.173104,41.388481,METRO (L4),URQUINAONA/METRO (L4),2,Hotel,Restaurant,Coffe Shop,Tapas Restaurant,Mediterranean Restaurant,Japanese Restaurant,Clothing Store,Art Gallery,Sporting Goods Shop,Plaza
+200,2.174535,41.415996,METRO (L4),HOSPITAL DE SANT PAU/METRO (L4),9,Supermarket,Gym,Restaurant,Farmers Market,Breakfast Spot,Swiss Restaurant,Pharmacy,Athletics & Sports,Pizza Place,Bar
+212,2.19105,41.436433,METRO (L1),SANT ANDREU/METRO (L1),9,Restaurant,Coffe Shop,Bar,Plaza,Park,Grocery Store,Brewery,Mexican Restaurant,Argentinian Restaurant,Snack Place
+218,2.192089,41.387575,TRAMVIA (T4),CIUTADELLA/TRAMVIA (T4),0,Restaurant,Nightclub,Coffe Shop,Japanese Restaurant,Mediterranean Restaurant,Italian Restaurant,South American Restaurant,Cocktail Bar,Gym,Lounge
+228,2.217105,41.414575,METRO (L4),BESÒS MAR/METRO (L4),0,Restaurant,Coffe Shop,Hotel,Clothing Store,Diner,Breakfast Spot,Big Box Store,Hotel Bar,Donut Shop,Sporting Goods Shop
+246,2.149572,41.40611,METRO (L3),LESSEPS/METRO (L3),1,Italian Restaurant,Pizza Place,Hotel,Restaurant,Deli / Bodega,Plaza,Gastropub,Bakery,Bar,Wine Bar
+252,2.2149520000000003,41.41033,TRAMVIA (T4),DIAGONAL MAR/TRAMVIA (T4),1,Coffe Shop,Hotel,Clothing Store,Restaurant,Italian Restaurant,Diner,Tapas Restaurant,Burger Joint,Fried Chicken Joint,Juice Bar
+253,2.204513,41.416358,"TRAMVIA (T5, T6)","SANT MARTÍ DE PROVENÇALS/TRAMVIA (T5, T6)",9,Soccer Field,Coffe Shop,Tapas Restaurant,Grocery Store,Bakery,Pizza Place,Tennis Court,Pedestrian Plaza,Pawn Shop,Farmers Market
+254,2.187919,41.373235,Transbordador del Port,Sant Sebastià/Transbordador del Port,7,Clothing Store,Beach,Mediterranean Restaurant,Paella Restaurant,Bar,Coffe Shop,Tapas Restaurant,Beach Bar,Board Shop,Fast Food Restaurant
+255,2.1725,41.371019,Transbordador del Port,Miramar/Transbordador del Port,2,Hotel,Hostel,Restaurant,Tapas Restaurant,Plaza,Park,Nightclub,Bar,Scenic Lookout,Sandwich Place
+264,2.165196,41.441671,METRO (L3),CANYELLES/METRO (L3),4,Market,Soccer Field,Plaza,Food & Drink Shop,Hot Spring,Park,Grocery Store,Mediterranean Restaurant,Tapas Restaurant,Coffe Shop
+265,2.136412,41.390505,"TRAMVIA (T1,T2,T3)","L'ILLA/TRAMVIA (T1,T2,T3)",0,Restaurant,Coffe Shop,Hotel,Clothing Store,Sporting Goods Shop,Sandwich Place,Park,Wine Shop,Cocktail Bar,Italian Restaurant
+266,2.188338,41.390398,TRAMVIA (T4),WELLINGTON/TRAMVIA (T4),1,Coffe Shop,Restaurant,Supermarket,Burger Joint,Pizza Place,Bakery,Mediterranean Restaurant,Park,Gym,Hostel
+271,2.1456060000000003,41.384454,METRO (L5),ENTENÇA/METRO (L5),1,Restaurant,Coffe Shop,Hotel,Mediterranean Restaurant,Grocery Store,Supermarket,Mexican Restaurant,Breakfast Spot,Japanese Restaurant,Gym
+273,2.181742,41.415335,METRO (L5),CAMP DE L'ARPA/METRO (L5),9,Restaurant,Grocery Store,Supermarket,Bakery,Tapas Restaurant,Mediterranean Restaurant,Hotel,Pharmacy,Mexican Restaurant,Middle Eastern Restaurant
+278,2.172794,41.381722,METRO (L3),LICEU/METRO (L3),7,Restaurant,Tapas Restaurant,Coffe Shop,Plaza,Ice Cream Shop,Dessert Shop,Hotel,Monument / Landmark,Sporting Goods Shop,Tea Room
+304,2.210317,41.420291,METRO (L4),BESÒS/METRO (L4),9,Coffe Shop,Tapas Restaurant,Restaurant,Grocery Store,Market,Food & Drink Shop,Skate Park,Bar,Supermarket,Bakery
+305,2.145257,41.43056,METRO (L3),MONTBAU/METRO (L3),4,Plaza,Park,Restaurant,Mediterranean Restaurant,Grocery Store,Soccer Stadium,Breakfast Spot,Tennis Court,Basketball Court,Stadium
+319,2.186968,41.397311,TRAMVIA (T4),AUDITORI/TRAMVIA (T4),1,Restaurant,Coffe Shop,Hotel,Bakery,Theater,Gym,Bar,Supermarket,Music Venue,Rock Club
+323,2.121492,41.386718,"TRAMVIA (T1,T2,T3)","PIUS XII/TRAMVIA (T1,T2,T3)",0,Restaurant,Hotel,Coffe Shop,Bakery,Vegetarian / Vegan Restaurant,Diner,Italian Restaurant,Bar,Garden,Plaza
+325,2.192179,41.395239,METRO (L4),BOGATELL/METRO (L4),1,Restaurant,Coffe Shop,Hotel,Bar,Music Venue,Art Gallery,Vegetarian / Vegan Restaurant,Rock Club,Bakery,Dance Studio
+327,2.147573,41.401403,FGC,PLAÇA MOLINA<center>/FGC,1,Coffe Shop,Mediterranean Restaurant,Restaurant,Bakery,Hotel,Tapas Restaurant,Plaza,Wine Bar,Pizza Place,Italian Restaurant
+341,2.188532,41.404209,"TRAMVIA (T5, T6)","LA FARINERA/TRAMVIA (T5, T6)",2,Restaurant,Hotel,Mediterranean Restaurant,Hostel,Gym,Clothing Store,Tapas Restaurant,Taco Place,Comfort Food Restaurant,Asian Restaurant
+344,2.166135,41.364048,Telefèric de Montjuïc,Castell/Telefèric de Montjuïc,4,Park,Restaurant,Castle,Athletics & Sports,Scenic Lookout,Historic Site,Lighthouse,Diner,Indie Movie Theater,Beer Garden
+350,2.200601,41.419306,METRO (L2),SANT MARTÍ/METRO (L2),9,Coffe Shop,Tapas Restaurant,Soccer Field,Park,Grocery Store,Bakery,Supermarket,Pizza Place,Smoke Shop,Pedestrian Plaza
+360,2.193312,41.435959,RENFE,SANT ANDREU COMTAL/RENFE,9,Restaurant,Coffe Shop,Plaza,Park,Supermarket,Bar,Brewery,Japanese Restaurant,Coworking Space,Shopping Mall
+388,2.13621,41.382176,METRO (L3),PLAÇA DEL CENTRE/METRO (L3),9,Restaurant,Coffe Shop,Grocery Store,Bakery,Mediterranean Restaurant,Supermarket,Hotel,Park,Gym,Tapas Restaurant
+389,2.111704,41.384208,METRO (L3),ZONA UNIVERSITÀRIA/METRO (L3),0,Restaurant,Gym,Bar,Nightclub,Hot Dog Joint,Sports Club,Athletics & Sports,Hotel Pool,Print Shop,Italian Restaurant
+394,2.194384,41.449539,METRO (L1),TRINITAT VELLA/METRO (L1),4,Restaurant,Soccer Field,Tapas Restaurant,Plaza,Park,Comfort Food Restaurant,Football Stadium,Monument / Landmark,South American Restaurant,Taco Place
+401,2.131844,41.389343,"TRAMVIA (T1,T2,T3)","NUMÀNCIA/TRAMVIA (T1,T2,T3)",0,Restaurant,Coffe Shop,Hotel,Clothing Store,Sandwich Place,Supermarket,Sushi Restaurant,Cocktail Bar,Burger Joint,Italian Restaurant
+427,2.163454,41.368756,Telefèric de Montjuïc,Parc de Montjuïc/Telefèric de Montjuïc,1,Mediterranean Restaurant,Park,Coffe Shop,Brewery,Cocktail Bar,Pizza Place,Restaurant,Racetrack,Bus Stop,Gastropub
+454,2.19746,41.399026,METRO (L4),LLACUNA/METRO (L4),1,Restaurant,Mediterranean Restaurant,Hotel,Coffe Shop,Bakery,Pizza Place,Italian Restaurant,Beer Bar,Art Gallery,Argentinian Restaurant
+458,2.140978,41.417691,METRO (L3),PENITENTS/METRO (L3),2,Restaurant,Hotel,Snack Place,Coffe Shop,Football Stadium,Mediterranean Restaurant,Plaza,Breakfast Spot,Soccer Field,Monument / Landmark
+460,2.139358,41.368228,FGC,MAGÒRIA/FGC,9,Supermarket,Restaurant,Hotel,Burger Joint,Gym,Pizza Place,Theater,Sports Club,Dog Run,Food & Drink Shop
+465,2.205212,41.436173,"METRO (L9, L10)","BON PASTOR/METRO (L9, L10)",0,Restaurant,Coffe Shop,Italian Restaurant,Mediterranean Restaurant,Grocery Store,Bakery,Athletics & Sports,Football Stadium,Monument / Landmark,South American Restaurant
+468,2.141445,41.425067,METRO (L5),VALL D'HEBRÓN/METRO (L5),4,Restaurant,Soccer Stadium,Bakery,Athletics & Sports,Farmers Market,Basketball Court,Bar,Stadium,Soccer Field,Grocery Store
+476,2.200227,41.450043,METRO (L1),BARÓ DE VIVER/METRO (L1),4,Plaza,Coffe Shop,Salon / Barbershop,Park,Track Stadium,Supermarket,Soccer Field,Burger Joint,Neighborhood,Rock Club
+484,2.13165,41.415969,TRAMVIA BLAU,PL. DR. ANDREU/TRAMVIA BLAU,4,Restaurant,Bar,Planetarium,Plaza,Park,Cocktail Bar,Football Stadium,Science Museum,Animal Shelter,Exhibit
+486,2.198381,41.406205,TRAMVIA (T4),PERE IV/TRAMVIA (T4),1,Mediterranean Restaurant,Restaurant,Hotel,Italian Restaurant,Supermarket,Vegetarian / Vegan Restaurant,Japanese Restaurant,Pizza Place,Asian Restaurant,Bakery
+507,2.152798,41.402597,METRO (L3),FONTANA/METRO (L3),7,Restaurant,Coffe Shop,Plaza,Tapas Restaurant,Mediterranean Restaurant,Pizza Place,Bar,Bookstore,Sushi Restaurant,Ice Cream Shop
+512,2.112031,41.376647,"TRAMVIA (T1,T2,T3)","SANT RAMON/TRAMVIA (T1,T2,T3)",9,Restaurant,Gym,Coffe Shop,Supermarket,Wine Shop,Hostel,Food Truck,Hotel,Bar,South American Restaurant
+558,2.0915630000000003,41.427474,FGC,LES PLANES/FGC,6,Restaurant,BBQ Joint,Rock Club,Toy / Game Store,Food Court,Football Stadium,Monument / Landmark,South American Restaurant,Taco Place,Port
+559,2.130075,41.398154,FGC,LES TRES TORRES<center>/FGC,0,Restaurant,Hotel,Mediterranean Restaurant,Burger Joint,Pizza Place,Pedestrian Plaza,Doctor's Office,Italian Restaurant,Seafood Restaurant,Mexican Restaurant
+565,2.09734,41.419668,FGC,BAIXADOR DE VALLVIDRERA/FGC,8,Restaurant,Lake,Tourist Information Center,Hostel,Castle,Port,Toy / Game Store,Food Court,Football Stadium,Monument / Landmark
+569,2.147573,41.401403,FGC (L7),PLAÇA MOLINA/FGC (L7),1,Coffe Shop,Mediterranean Restaurant,Restaurant,Bakery,Hotel,Tapas Restaurant,Plaza,Wine Bar,Pizza Place,Italian Restaurant
+588,2.19139,41.40443,TRAMVIA (T4),CA L'ARANYÓ/TRAMVIA (T4),0,Restaurant,Hotel,Japanese Restaurant,Mediterranean Restaurant,Art Museum,Vegetarian / Vegan Restaurant,Italian Restaurant,Clothing Store,Tapas Restaurant,Comfort Food Restaurant
+597,2.1429970000000003,41.392183,"TRAMVIA (T1,T2,T3)","FRANCESC MACIÀ/TRAMVIA (T1,T2,T3)",0,Restaurant,Coffe Shop,Japanese Restaurant,Mediterranean Restaurant,Bakery,Italian Restaurant,Burger Joint,Cocktail Bar,Hotel,Wine Shop
+598,2.126641,41.388002,"TRAMVIA (T1,T2,T3)","Mª CRISTINA/TRAMVIA (T1,T2,T3)",0,Restaurant,Coffe Shop,Hotel,Supermarket,Bar,Sandwich Place,Diner,Cocktail Bar,Burger Joint,Italian Restaurant
+617,2.178343,41.384137,METRO (L4),JAUME I/METRO (L4),7,Tapas Restaurant,Coffe Shop,Plaza,Hotel,Wine Bar,Bar,Dessert Shop,Restaurant,Cocktail Bar,Ice Cream Shop

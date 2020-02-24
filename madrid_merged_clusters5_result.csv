@@ -1,0 +1,200 @@
+,line,Longitude,Latitude,station,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+0,1,-3.645225283556576,40.38976870035243,ALTO DEL ARENAL/1,2,Asian Restaurant,Bar,Grocery Store,Pizza Place,Chinese Restaurant,Building,German Restaurant,Soccer Stadium,Kebab Restaurant,Miscellaneous Shop
+6,1,-3.7033178070796913,40.45033105413335,ALVARADO/1,1,Restaurant,Bar,Grocery Store,Pizza Place,Seafood Restaurant,Hotel,Bakery,Frozen Yogurt Shop,Kebab Restaurant,Gastropub
+47,1,-3.699375741673241,40.41246302818812,ANTON MARTIN/1,3,Restaurant,Hotel,Bar,Coffe Shop,Theater,Tapas Restaurant,Jazz Club,Bookstore,Hostel,Mexican Restaurant
+147,1,-3.692490883566612,40.408846792956474,ATOCHA/1,3,Restaurant,Coffe Shop,Hotel,Bar,Garden,Sandwich Place,Mediterranean Restaurant,Italian Restaurant,Museum,Art Museum
+206,1,-3.6893799937155283,40.406586090726144,ATOCHA RENFE/1,3,Restaurant,Hotel,Grocery Store,Garden,Bookstore,Museum,Sandwich Place,Art Museum,Tapas Restaurant,Falafel Restaurant
+264,1,-3.676377276244711,40.47680705593772,BAMBU/1,3,Coffe Shop,Mexican Restaurant,Bar,Fish & Chips Shop,Tennis Court,Mediterranean Restaurant,Italian Restaurant,German Restaurant,Kebab Restaurant,Miscellaneous Shop
+272,1,-3.702188295886297,40.42904963582931,BILBAO/1,3,Restaurant,Bar,Plaza,Coffe Shop,Ice Cream Shop,Japanese Restaurant,Cocktail Bar,Brewery,Mediterranean Restaurant,Nightclub
+372,1,-3.6539143400014304,40.39155774604133,BUENOS AIRES/1,2,Bar,Restaurant,Pizza Place,Electronics Store,American Restaurant,Soccer Stadium,Fast Food Restaurant,Big Box Store,Grocery Store,Gym
+384,1,-3.6825932781154513,40.4720227901636,CHAMARTIN/1,3,Restaurant,Platform,Coffe Shop,Bar,Hotel,Gym,Supermarket,Sandwich Place,Wine Bar,Bowling Alley
+427,1,-3.618850584099445,40.372381107450174,CONGOSTO/1,1,Restaurant,Automotive Shop,Soccer Field,Skate Park,Basketball Court,Tennis Court,Kebab Restaurant,Miscellaneous Shop,Building,Paper / Office Supplies Store
+432,1,-3.703978476654022,40.44696667800756,CUATRO CAMINOS/1,0,Restaurant,Tapas Restaurant,Bar,Coffe Shop,Grocery Store,Supermarket,Bakery,Soccer Field,Japanese Restaurant,Italian Restaurant
+509,1,-3.703028749396468,40.45427874922785,ESTRECHO/1,0,Restaurant,Tapas Restaurant,Bakery,Bar,Pub,Pizza Place,Supermarket,Gym,Seafood Restaurant,Kebab Restaurant
+577,1,-3.701811363848994,40.42000685738866,GRAN VIA/1,3,Hotel,Restaurant,Coffe Shop,Plaza,Gourmet Shop,Clothing Store,Sporting Goods Shop,Bookstore,Tapas Restaurant,Bar
+677,1,-3.698983453377392,40.43491591143403,IGLESIA/1,1,Restaurant,Tapas Restaurant,Coffe Shop,Italian Restaurant,Bar,Bakery,Mexican Restaurant,Plaza,Japanese Restaurant,Burger Joint
+767,1,-3.6134711039363103,40.37018451188382,LA GAVIA/1,2,Restaurant,Grocery Store,Pharmacy,Sushi Restaurant,Supermarket,Skate Park,Asian Restaurant,German Restaurant,Miscellaneous Shop,Building
+774,1,-3.5995338882203147,40.363221458113095,LAS SUERTES/1,0,Park,Restaurant,Pizza Place,Skate Park,Sushi Restaurant,Supermarket,Clothing Store,Tapas Restaurant,Coffe Shop,Boutique
+786,1,-3.68099094552854,40.404446601213934,MENENDEZ PELAYO/1,0,Restaurant,Bar,Coffe Shop,Museum,Hotel,Ice Cream Shop,Athletics & Sports,Italian Restaurant,Art Gallery,Bakery
+850,1,-3.639511225386237,40.38731392982777,MIGUEL HERNANDEZ/1,2,Grocery Store,Pizza Place,Fast Food Restaurant,Coffe Shop,Fruit & Vegetable Store,Chinese Restaurant,Neighborhood,Kebab Restaurant,Miscellaneous Shop,Building
+859,1,-3.66414535178604,40.39553550876285,NUEVA NUMANCIA/1,2,Burger Joint,Bakery,Pizza Place,Supermarket,Pub,BBQ Joint,Sandwich Place,Brewery,Ice Cream Shop,Snack Place
+891,1,-3.6751373636802835,40.401255680712225,PACIFICO/1,0,Restaurant,Coffe Shop,Bar,Tapas Restaurant,Grocery Store,Gym,Pizza Place,Athletics & Sports,Food & Drink Shop,Bakery
+941,1,-3.666807043721634,40.48013291749131,PINAR DE CHAMARTIN/1,1,Restaurant,Gym,Bar,Supermarket,Italian Restaurant,Food,Sports Bar,Diner,Japanese Restaurant,Asian Restaurant
+967,1,-3.689182340661554,40.466893623466774,PLAZA DE CASTILLA/1,1,Restaurant,Italian Restaurant,Coffe Shop,Chinese Restaurant,Hotel,Fast Food Restaurant,Electronics Store,Argentinian Restaurant,Burger Joint,Seafood Restaurant
+1030,1,-3.658685211486692,40.3926568047608,PORTAZGO/1,2,Gym,Pizza Place,Restaurant,Fast Food Restaurant,Performing Arts Venue,American Restaurant,Concert Hall,Rock Club,Big Box Store,Brewery
+1048,1,-3.669061703442904,40.3981918732199,PUENTE DE VALLECAS/1,2,Fast Food Restaurant,Supermarket,Coffe Shop,Tapas Restaurant,Grocery Store,Gym,Hotel,Bakery,Peruvian Restaurant,BBQ Joint
+1078,1,-3.7013322873211663,40.441973758517896,RIOS ROSAS/1,0,Restaurant,Tapas Restaurant,Coffe Shop,Bar,Supermarket,Italian Restaurant,Theater,Pizza Place,Japanese Restaurant,Pub
+1152,1,-3.624724516699161,40.38216046446645,SIERRA DE GUADALUPE/1,2,Deli / Bodega,Fast Food Restaurant,Department Store,Breakfast Spot,Seafood Restaurant,Church,Grocery Store,Dessert Shop,Shoe Store,Building
+1162,1,-3.7032639472488222,40.41687189377045,SOL/1,3,Restaurant,Hotel,Tapas Restaurant,Plaza,Coffe Shop,Hostel,Bookstore,Art Museum,Ice Cream Shop,Gourmet Shop
+1262,1,-3.6982583415842796,40.46055088842157,TETUAN/1,1,Restaurant,Coffe Shop,Supermarket,Brazilian Restaurant,Brewery,Chinese Restaurant,Grocery Store,Pizza Place,Gym,Hotel
+1302,1,-3.704666474578768,40.412340813197176,TIRSO DE MOLINA/1,3,Restaurant,Hotel,Coffe Shop,Tapas Restaurant,Plaza,Theater,Hostel,Ice Cream Shop,Bistro,Supermarket
+1402,1,-3.7011092895468374,40.42618230502953,TRIBUNAL/1,3,Restaurant,Bar,Cocktail Bar,Coffe Shop,Italian Restaurant,Tapas Restaurant,Plaza,Bookstore,Nightclub,Hotel
+1502,1,-3.695066466512397,40.46441695832889,VALDEACEDERAS/1,1,Restaurant,Coffe Shop,Chinese Restaurant,Grocery Store,Hotel,Italian Restaurant,Gym,Mediterranean Restaurant,Brewery,BBQ Joint
+1593,1,-3.6213080158895963,40.37959325302986,VILLA DE VALLECAS/1,2,Restaurant,Grocery Store,Soccer Field,Church,Plaza,Gym Pool,Lake,Office,Shoe Store,Wine Shop
+1601,10A,-3.6964415981734513,40.42852583791778,ALONSO MARTINEZ/10A,3,Restaurant,Hotel,Plaza,Italian Restaurant,Coffe Shop,Bistro,Japanese Restaurant,Bakery,Nightclub,Cocktail Bar
+1698,10A,-3.783925418680029,40.383632271282956,AVIACION ESPAÑOLA/10A,0,Restaurant,Smoke Shop,Convenience Store,Sporting Goods Shop,Bar,Bus Station,Shoe Store,Paper / Office Supplies Store,Tennis Court,General Entertainment
+1705,10A,-3.75311658343704,40.4078551777336,BATAN/10A,3,Theme Park Ride / Attraction,Restaurant,Snack Place,Tapas Restaurant,Theme Park,Buffet,General Entertainment,Miscellaneous Shop,Building,Paper / Office Supplies Store
+1717,10A,-3.6858519004423416,40.48040885601242,BEGOÑA/10A,3,Restaurant,Hotel,Sandwich Place,Breakfast Spot,Burger Joint,Mediterranean Restaurant,Park,Fast Food Restaurant,Tapas Restaurant,Spa
+1733,10A,-3.7746180160605984,40.39697434800015,COLONIA JARDIN/10A,2,Restaurant,Bakery,Bus Station,Grocery Store,Burger Joint,Diner,Miscellaneous Shop,Building,Paper / Office Supplies Store,Tennis Court
+1747,10A,-3.6898623797190213,40.458421129185616,CUZCO/10A,1,Restaurant,Gym,Hotel,Seafood Restaurant,Paella Restaurant,Cocktail Bar,Ice Cream Shop,Japanese Restaurant,Asian Restaurant,Pub
+1822,10A,-3.692833839645428,40.49507880631472,FUENCARRAL/10A,3,Coffe Shop,Snack Place,Plaza,Salad Place,Peruvian Restaurant,Pharmacy,Breakfast Spot,Track Stadium,Athletics & Sports,Food
+1837,10A,-3.691275897641476,40.43752982644804,GREGORIO MARAÑON/10A,1,Restaurant,Bar,Hotel,Coffe Shop,Japanese Restaurant,Sushi Restaurant,Burger Joint,Tapas Restaurant,Lounge,Chinese Restaurant
+1937,10A,-3.7356377170839976,40.41640917765352,LAGO/10A,1,Restaurant,Pool,Mediterranean Restaurant,Stadium,Lake,Paella Restaurant,Arts & Entertainment,Non-Profit,Farmers Market,Beer Garden
+1959,10A,-3.6924180862691776,40.44657704290261,NUEVOS MINISTERIOS/10A,0,Restaurant,Tapas Restaurant,Clothing Store,Coffe Shop,Bar,Burger Joint,Japanese Restaurant,Italian Restaurant,Bakery,Snack Place
+2048,10A,-3.709704711212932,40.42408480996496,PLAZA DE ESPAÑA/10A,3,Hotel,Coffe Shop,Restaurant,Cocktail Bar,Tapas Restaurant,Bookstore,Theater,Hostel,Argentinian Restaurant,Chinese Restaurant
+2148,10A,-3.720328666004263,40.42102810708947,PRINCIPE PIO/10A,3,Hotel,Coffe Shop,Bar,Ice Cream Shop,Monument / Landmark,Park,Restaurant,Theater,Gastropub,Shopping Mall
+2199,10A,-3.690382068697232,40.451580204753796,SANTIAGO BERNABEU/10A,1,Restaurant,Coffe Shop,Soccer Stadium,Bakery,Italian Restaurant,Clothing Store,Burger Joint,Plaza,Brewery,Nightclub
+2289,10A,-3.695209949418144,40.50119961127806,TRES OLIVOS/10A,3,Coffe Shop,Track Stadium,Pharmacy,Supermarket,Plaza,Wine Shop,Neighborhood,German Restaurant,Miscellaneous Shop,Building
+2372,10B,-3.669446787174648,40.50832462832863,LAS TABLAS/10B,0,Restaurant,Burger Joint,Coffe Shop,Playground,Pizza Place,Pharmacy,Gymnastics Gym,Nightclub,Spa,Thai Restaurant
+2443,10B,-3.6957592776154735,40.50525031559373,MONTECARMELO/10B,2,Supermarket,Deli / Bodega,Asian Restaurant,Restaurant,Park,Athletics & Sports,Burger Joint,Wine Shop,Pet Store,Diner
+2477,10B,-3.66277826042536,40.51553415823411,RONDA DE LA COMUNICACION/10B,1,Restaurant,Coffe Shop,IT Services,Italian Restaurant,Lake,Sushi Restaurant,Indian Restaurant,Mobile Phone Shop,Sandwich Place,Burger Joint
+2502,11,-3.72791115890327,40.38082723882115,ABRANTES/11,2,Restaurant,Pizza Place,Soccer Field,Fast Food Restaurant,Athletics & Sports,Park,Lake,Gym Pool,Arcade,Office
+2508,11,-3.751916263742287,40.37199788960605,CARABANCHEL ALTO/11,1,Restaurant,Gym,Plaza,BBQ Joint,Music School,Candy Store,Arcade,General Entertainment,Miscellaneous Shop,Building
+2526,11,-3.756906023990758,40.364217512605684,LA PESETA/11,0,Bar,Restaurant,Music School,Pizza Place,Candy Store,Italian Restaurant,Park,Bakery,Steakhouse,Gym Pool
+2543,11,-3.7182557200044095,40.38459935886321,PLAZA ELIPTICA/11,0,Bar,Bakery,Plaza,Gym,Seafood Restaurant,Colombian Restaurant,Restaurant,Kebab Restaurant,Grocery Store,Stadium
+2556,11,-3.73910622280992,40.37359399926437,SAN FRANCISCO/11,2,Restaurant,Coffe Shop,Food & Drink Shop,Grocery Store,Supermarket,Hotel,German Restaurant,Kebab Restaurant,Miscellaneous Shop,Building
+2858,2,-3.62351440276472,40.418284443909386,ALSACIA/2,3,Chinese Restaurant,Multiplex,Hotel,Breakfast Spot,Burger Joint,Big Box Store,Shoe Store,Clothing Store,Trail,Plaza
+2877,2,-3.612070828457266,40.422390661721714,AVENIDA DE GUADALAJARA/2,1,Restaurant,Gas Station,Bar,Chinese Restaurant,Pizza Place,Beer Garden,Asian Restaurant,General Entertainment,Kebab Restaurant,Miscellaneous Shop
+2886,2,-3.6949664945932885,40.41921937328667,BANCO DE ESPAÑA/2,3,Restaurant,Hotel,Plaza,Japanese Restaurant,Bar,Mediterranean Restaurant,Bakery,Art Gallery,Italian Restaurant,Gay Bar
+2986,2,-3.704337220993404,40.43840594045452,CANAL/2,0,Restaurant,Bar,Tapas Restaurant,Coffe Shop,Seafood Restaurant,Gastropub,Theater,Beer Bar,Italian Restaurant,Mediterranean Restaurant
+3056,2,-3.6759123759569374,40.42453956509611,GOYA/2,1,Restaurant,Tapas Restaurant,Coffe Shop,Burger Joint,Seafood Restaurant,Ice Cream Shop,Mediterranean Restaurant,Steakhouse,Gymnastics Gym,Thai Restaurant
+3156,2,-3.6391475841604057,40.42361352022292,LA ALMUDENA/2,0,Park,Shopping Mall,Bar,Tapas Restaurant,Food & Drink Shop,Supermarket,Building,Paper / Office Supplies Store,Tennis Court,General Entertainment
+3165,2,-3.650528497343345,40.4266131180015,LA ELIPA/2,1,Restaurant,Bar,Coffe Shop,Falafel Restaurant,Grocery Store,Soccer Field,Bakery,Wine Shop,Miscellaneous Shop,Building
+3176,2,-3.6033126554226547,40.42374301041612,LAS ROSAS/2,2,Restaurant,Tapas Restaurant,Grocery Store,Mediterranean Restaurant,Gym,Pizza Place,Liquor Store,Playground,Seafood Restaurant,Kebab Restaurant
+3189,2,-3.6692617275650825,40.42790259126464,MANUEL BECERRA/2,1,Restaurant,Seafood Restaurant,Tapas Restaurant,Bakery,Japanese Restaurant,Gym,Supermarket,Cupcake Shop,Miscellaneous Shop,Mexican Restaurant
+3249,2,-3.707425679563484,40.42483751820921,NOVICIADO/2,3,Coffe Shop,Hotel,Restaurant,Bar,Theater,Cocktail Bar,Argentinian Restaurant,Hostel,Bookstore,Chinese Restaurant
+3349,2,-3.709429506715207,40.41808648235822,OPERA/2,3,Restaurant,Plaza,Hotel,Tapas Restaurant,Ice Cream Shop,Coffe Shop,Bar,Bookstore,Gourmet Shop,Hostel
+3449,2,-3.6801282562882505,40.42293825869697,PRINCIPE DE VERGARA/2,1,Restaurant,Italian Restaurant,Burger Joint,Tapas Restaurant,Ice Cream Shop,Bakery,Coffe Shop,Mediterranean Restaurant,Indian Restaurant,Steakhouse
+3549,2,-3.7043420216216063,40.433216719734475,QUEVEDO/2,0,Restaurant,Coffe Shop,Bar,Tapas Restaurant,Plaza,Brewery,Burger Joint,Mexican Restaurant,Ice Cream Shop,Japanese Restaurant
+3649,2,-3.6862547889045016,40.420298442434046,RETIRO/2,1,Restaurant,Hotel,Coffe Shop,Italian Restaurant,Dessert Shop,Shoe Store,Japanese Restaurant,Burger Joint,Park,Accessories Store
+3732,2,-3.7055818156463136,40.43001095773282,SAN BERNARDO/2,3,Restaurant,Bar,Mexican Restaurant,Coffe Shop,Plaza,Hotel,Brewery,Ice Cream Shop,Japanese Restaurant,Italian Restaurant
+3832,2,-3.70796634277563,40.42131167732352,SANTO DOMINGO/2,3,Restaurant,Coffe Shop,Hotel,Bar,Cocktail Bar,Theater,Hostel,Plaza,Bookstore,Tapas Restaurant
+3932,2,-3.699256777934109,40.418049356378106,SEVILLA/2,3,Restaurant,Hotel,Tapas Restaurant,Cocktail Bar,Plaza,Art Museum,Coffe Shop,Pizza Place,Theater,Paella Restaurant
+4032,2,-3.6636676897921747,40.43088079412545,VENTAS/2,1,Restaurant,Bakery,Italian Restaurant,General Entertainment,Miscellaneous Shop,Latin American Restaurant,Museum,American Restaurant,Mexican Restaurant,Gastropub
+4057,3,-3.697892329475578,40.3840934125769,ALMENDRALES/3,1,Restaurant,Seafood Restaurant,Bar,Gastropub,Pub,Chinese Restaurant,Fast Food Restaurant,Gym,Grocery Store,BBQ Joint
+4074,3,-3.715975031788373,40.43065877069208,ARGÜELLES/3,0,Restaurant,Tapas Restaurant,Bar,Coffe Shop,Sandwich Place,Pub,Burger Joint,Brewery,Ice Cream Shop,Bookstore
+4135,3,-3.70566714539617,40.420127531994346,CALLAO/3,3,Coffe Shop,Hotel,Restaurant,Clothing Store,Tapas Restaurant,Bookstore,Hostel,Gourmet Shop,Plaza,Italian Restaurant
+4235,3,-3.693635291131088,40.359578197527426,CIUDAD DE LOS ANGELES/3,0,Restaurant,Supermarket,Basketball Court,Burger Joint,Video Game Store,Shopping Mall,Pet Store,Clothing Store,Coffe Shop,Gym
+4245,3,-3.69420215115586,40.39989953900073,DELICIAS/3,0,Restaurant,Tapas Restaurant,Grocery Store,Coffe Shop,Gym,Bakery,Beer Garden,Chinese Restaurant,Falafel Restaurant,Trade School
+4297,3,-3.7026819925091385,40.405118619725904,EMBAJADORES/3,0,Restaurant,Bar,Coffe Shop,Tapas Restaurant,Gym,Art Gallery,Plaza,Indie Theater,Bookstore,Pizza Place
+4397,3,-3.6958551049681336,40.375024514615504,HOSPITAL 12 DE OCTUBRE/3,2,Restaurant,Coffe Shop,Fast Food Restaurant,Office,Farmers Market,Shopping Mall,Pharmacy,Clothing Store,Sandwich Place,Falafel Restaurant
+4413,3,-3.7009140558765012,40.4085077475188,LAVAPIES/3,0,Bar,Restaurant,Coffe Shop,Tapas Restaurant,Theater,Pizza Place,Art Gallery,Plaza,Market,Breakfast Spot
+4503,3,-3.6951255513875054,40.391146176794116,LEGAZPI/3,0,Restaurant,Bar,Plaza,Coffe Shop,Tapas Restaurant,Park,Grocery Store,Farmers Market,Supermarket,Beer Garden
+4560,3,-3.7194521744896463,40.43501556410216,MONCLOA/3,0,Restaurant,Tapas Restaurant,Coffe Shop,Bar,Ice Cream Shop,Pizza Place,Sandwich Place,Japanese Restaurant,Italian Restaurant,Korean Restaurant
+4608,3,-3.694234726052655,40.40307053569799,PALOS DE LA FRONTERA/3,1,Restaurant,Bakery,Coffe Shop,Tapas Restaurant,Grocery Store,Gym,Sandwich Place,Bookstore,Arepa Restaurant,Beer Garden
+4699,3,-3.6931914329611035,40.3415355358706,SAN CRISTOBAL/3,2,Baseball Stadium,Convenience Store,Breakfast Spot,Tapas Restaurant,Grocery Store,Candy Store,Miscellaneous Shop,Building,Paper / Office Supplies Store,Tennis Court
+4705,3,-3.694177839097669,40.369989491378796,SAN FERMIN-ORCASUR/3,2,Fast Food Restaurant,Restaurant,Pizza Place,Pharmacy,Furniture / Home Store,Bed & Breakfast,Supermarket,Soccer Field,Grocery Store,Gym Pool
+4715,3,-3.7134142861939377,40.427080002151314,VENTURA RODRIGUEZ/3,3,Restaurant,Hotel,Coffe Shop,Tapas Restaurant,Mexican Restaurant,Mediterranean Restaurant,Bar,Art Museum,Bookstore,Movie Theater
+4783,3,-3.711990993449082,40.34122313886692,VILLAVERDE ALTO/3,1,Restaurant,Diner,Mobile Phone Shop,Kebab Restaurant,Miscellaneous Shop,Building,Paper / Office Supplies Store,Tennis Court,General Entertainment,German Restaurant
+4792,3,-3.6926513322135466,40.350890273928535,VILLAVERDE BAJO CRUCE/3,1,Restaurant,Grocery Store,Pet Store,Electronics Store,Park,Bus Station,Coffe Shop,Wine Shop,Miscellaneous Shop,Building
+4804,4,-3.667918652761097,40.44824371776939,ALFONSO XIII/4,0,Coffe Shop,Restaurant,Seafood Restaurant,Bar,Tapas Restaurant,Bakery,Rock Club,Burger Joint,Park,Mexican Restaurant
+4859,4,-3.6561881225682944,40.45582440947207,ARTURO SORIA/4,1,Restaurant,Chinese Restaurant,Bar,Fast Food Restaurant,Food & Drink Shop,Smoke Shop,Argentinian Restaurant,Convenience Store,Paper / Office Supplies Store,Pharmacy
+4886,4,-3.6766487941815313,40.438030781889246,AVENIDA DE AMERICA/4,3,Restaurant,Coffe Shop,Supermarket,Hotel,Indian Restaurant,Seafood Restaurant,Japanese Restaurant,Bakery,Argentinian Restaurant,Cosmetics Shop
+4929,4,-3.661189835951984,40.45353464957249,AVENIDA DE LA PAZ/4,1,Restaurant,Bar,Chinese Restaurant,Lottery Retailer,Asian Restaurant,Indian Restaurant,Convenience Store,Mediterranean Restaurant,Smoke Shop,Supermarket
+4946,4,-3.635600579737649,40.46380429988093,CANILLAS/4,1,Restaurant,Italian Restaurant,Juice Bar,Clothing Store,Coffe Shop,Farmers Market,Arcade,Soccer Field,Skating Rink,Pharmacy
+4991,4,-3.6910103826094263,40.42541427689269,COLON/4,1,Restaurant,Hotel,Clothing Store,Japanese Restaurant,Italian Restaurant,Coffe Shop,American Restaurant,Accessories Store,Bakery,Flower Shop
+5091,4,-3.6749645017347072,40.434671254236825,DIEGO DE LEON/4,1,Restaurant,Hotel,Bar,Coffe Shop,Seafood Restaurant,Bakery,Tapas Restaurant,Mediterranean Restaurant,Supermarket,Grocery Store
+5191,4,-3.645820621327798,40.45944135187602,ESPERANZA/4,1,Restaurant,Hotel,Soccer Field,Rock Club,Italian Restaurant,Plaza,Pub,Wine Bar,Wine Shop,Miscellaneous Shop
+5199,4,-3.6525796374794783,40.47536730266078,HORTALEZA/4,1,Restaurant,Pool,Supermarket,Park,Smoke Shop,Pharmacy,Soccer Field,Pub,Mediterranean Restaurant,Food Truck
+5216,4,-3.6754163728813936,40.42916409911889,LISTA/4,1,Restaurant,Bar,Burger Joint,Seafood Restaurant,Gym,Mediterranean Restaurant,Bakery,Clothing Store,Mexican Restaurant,Supermarket
+5287,4,-3.6629051586944517,40.476867092844046,MANOTERAS/4,2,Grocery Store,Restaurant,Gym,Food Truck,Diner,Music School,Food,Pet Store,Bakery,Park
+5305,4,-3.6383312545367454,40.46941986762225,MAR DE CRISTAL/4,1,Restaurant,Shopping Mall,Pizza Place,Donut Shop,Pharmacy,Big Box Store,Clothing Store,Sandwich Place,Pub,Breakfast Spot
+5328,4,-3.6452466617480783,40.47711116792567,PARQUE DE SANTA MARIA/4,0,Tapas Restaurant,Park,Coffe Shop,Gourmet Shop,Supermarket,Brewery,Wine Shop,Miscellaneous Shop,Building,Paper / Office Supplies Store
+5335,4,-3.6748238288203408,40.444185596768286,PROSPERIDAD/4,0,Restaurant,Bar,Tapas Restaurant,Supermarket,Coffe Shop,Pizza Place,Plaza,Diner,Bakery,Japanese Restaurant
+5407,4,-3.639582350261602,40.47446698722932,SAN LORENZO/4,1,Restaurant,Supermarket,Gourmet Shop,Soup Place,Shopping Mall,Food,Hotel,Brewery,Garden,Bar
+5422,4,-3.6866370317920936,40.425431324777286,SERRANO/4,1,Restaurant,Hotel,Clothing Store,Italian Restaurant,Coffe Shop,Tapas Restaurant,Japanese Restaurant,Furniture / Home Store,Accessories Store,Shoe Store
+5522,4,-3.6829196009024106,40.42502991887892,VELAZQUEZ/4,1,Restaurant,Hotel,Clothing Store,Ice Cream Shop,Bakery,Italian Restaurant,Tapas Restaurant,Coffe Shop,Burger Joint,Japanese Restaurant
+5622,5,-3.7066522311398944,40.40386919094475,ACACIAS/5,0,Tapas Restaurant,Art Gallery,Restaurant,Bar,Gym,Pizza Place,Theater,Event Space,Sporting Goods Shop,Bookstore
+5656,5,-3.587529851420831,40.45778836878319,ALAMEDA DE OSUNA/5,3,Restaurant,Smoke Shop,Bakery,Hotel,Breakfast Spot,Chinese Restaurant,Fried Chicken Joint,Cocktail Bar,Italian Restaurant,Shop & Service
+5678,5,-3.7608096529501776,40.38562451896221,ALUCHE/5,0,Bar,Tapas Restaurant,Restaurant,Chinese Restaurant,Seafood Restaurant,Sandwich Place,Bakery,Latin American Restaurant,Plaza,Shopping Mall
+5699,5,-3.768135975295008,40.39480136388357,CAMPAMENTO/5,0,Bar,Restaurant,Pizza Place,Fried Chicken Joint,Burger Joint,Italian Restaurant,Department Store,Fast Food Restaurant,Tapas Restaurant,Gym
+5712,5,-3.608164956973511,40.44942037767125,CANILLEJAS/5,3,Restaurant,Hotel,Pizza Place,Smoke Shop,Plaza,Bakery,Coffe Shop,Bar,Wine Shop,Miscellaneous Shop
+5724,5,-3.74488166043892,40.38781832385251,CARABANCHEL/5,2,Restaurant,Fast Food Restaurant,Hotel,Comedy Club,Brewery,Pub,Breakfast Spot,Bakery,Plaza,Sporting Goods Shop
+5739,5,-3.6976215653090696,40.42292411564185,CHUECA/5,3,Restaurant,Gay Bar,Italian Restaurant,Tapas Restaurant,Bakery,Hotel,Bookstore,Vegetarian / Vegan Restaurant,Mediterranean Restaurant,Deli / Bodega
+5839,5,-3.638164089763644,40.43804242659882,CIUDAD LINEAL/5,0,Tapas Restaurant,Restaurant,Clothing Store,Bar,Fast Food Restaurant,Casino,Gym,Sandwich Place,Pub,Peruvian Restaurant
+5872,5,-3.5940139675362324,40.453466938879366,EL CAPRICHO/5,3,Restaurant,Bar,Chinese Restaurant,Hotel,Park,Garden,Tennis Court,Smoke Shop,Pub,Bakery
+5889,5,-3.6575823653676434,40.43188854347103,EL CARMEN/5,1,Restaurant,Grocery Store,Gym,Chinese Restaurant,Tapas Restaurant,Pizza Place,Hotel,Mediterranean Restaurant,Mexican Restaurant,Museum
+5934,5,-3.7653543590645233,40.39056753293377,EMPALME/5,0,Restaurant,Shopping Mall,Bar,Tapas Restaurant,Chinese Restaurant,Latin American Restaurant,Irish Pub,Department Store,Burger Joint,Fast Food Restaurant
+5957,5,-3.751217472411813,40.38438091577908,EUGENIA DE MONTIJO/5,1,Restaurant,Athletics & Sports,Seafood Restaurant,Bakery,Park,Concert Hall,Tapas Restaurant,German Restaurant,Miscellaneous Shop,Building
+5965,5,-3.7081675783047374,40.4112743722751,LA LATINA/5,0,Restaurant,Tapas Restaurant,Plaza,Coffe Shop,Bar,Hotel,Hostel,Bistro,Vegetarian / Vegan Restaurant,Pizza Place
+6065,5,-3.7159638131972237,40.39735240863037,MARQUES DE VADILLO/5,0,Tapas Restaurant,Coffe Shop,Bar,Supermarket,Plaza,Park,Restaurant,Seafood Restaurant,Bridge,Playground
+6091,5,-3.6825853552836967,40.43277965882792,NUÑEZ DE BALBOA/5,1,Restaurant,Boutique,Coffe Shop,Tapas Restaurant,Japanese Restaurant,Mediterranean Restaurant,Seafood Restaurant,Bakery,Bistro,Furniture / Home Store
+6191,5,-3.7313276758892546,40.38846340308106,OPORTO/5,2,Coffe Shop,Concert Hall,Nightclub,Supermarket,Brewery,Rock Club,Plaza,Fast Food Restaurant,Kebab Restaurant,Bar
+6205,5,-3.711388073763649,40.402596899905255,PIRAMIDES/5,0,Restaurant,Coffe Shop,Plaza,Bar,Sandwich Place,Nightclub,Chinese Restaurant,Mediterranean Restaurant,Italian Restaurant,Peruvian Restaurant
+6266,5,-3.6428344036058258,40.435692221220776,PUEBLO NUEVO/5,0,Restaurant,Clothing Store,Coffe Shop,Tapas Restaurant,Bar,Supermarket,Bakery,Mobile Phone Shop,Brewery,Chinese Restaurant
+6306,5,-3.711057633812725,40.40703138929742,PUERTA DE TOLEDO/5,0,Tapas Restaurant,Coffe Shop,Bar,Restaurant,Gym,Plaza,Pizza Place,Sandwich Place,Vegetarian / Vegan Restaurant,Food & Drink Shop
+6353,5,-3.647365166136872,40.43357684329915,QUINTANA/5,0,Restaurant,Bar,Coffe Shop,Tapas Restaurant,Supermarket,Bakery,Burger Joint,BBQ Joint,Taco Place,Sporting Goods Shop
+6384,5,-3.689545126364684,40.43315277114287,RUBEN DARIO/5,1,Restaurant,Hotel,Boutique,Tapas Restaurant,Mediterranean Restaurant,Japanese Restaurant,Cocktail Bar,Furniture / Home Store,French Restaurant,Jewelry Store
+6484,5,-3.626847447076172,40.44084308870699,SUANZES/5,1,Restaurant,Mediterranean Restaurant,Hotel,Coffe Shop,Italian Restaurant,Fast Food Restaurant,American Restaurant,Music Venue,Buffet,Brewery
+6513,5,-3.6170047299183135,40.443742894291184,TORRE ARIAS/5,3,Plaza,Rock Club,Shopping Mall,Gastropub,Restaurant,Lake,Office,Gym Pool,Shoe Store,Wine Shop
+6520,5,-3.723615630429613,40.393349794539645,URGEL/5,2,Coffe Shop,Gym,Fast Food Restaurant,Grocery Store,Flea Market,Supermarket,Neighborhood,Wine Shop,Miscellaneous Shop,Building
+6531,5,-3.7398266451178808,40.388841774504186,VISTA ALEGRE/5,2,Fast Food Restaurant,Grocery Store,Breakfast Spot,Plaza,Comedy Club,Brewery,Convenience Store,Pub,Restaurant,Bar
+6551,6,-3.738937772474832,40.40991964465943,ALTO DE EXTREMADURA/6,2,Grocery Store,Restaurant,Stadium,Bar,Supermarket,Athletics & Sports,Student Center,Park,Sandwich Place,Pizza Place
+6565,6,-3.688641465063928,40.39309490002911,ARGANZUELA-PLANETARIO/6,0,Restaurant,Bar,Tapas Restaurant,Coffe Shop,Gym,Wine Bar,Mexican Restaurant,Pharmacy,Sushi Restaurant,Argentinian Restaurant
+6597,6,-3.74100000338481,40.392699152623656,CARPETANA/6,2,Breakfast Spot,Grocery Store,Convenience Store,Coffe Shop,Fast Food Restaurant,Neighborhood,Miscellaneous Shop,Building,Paper / Office Supplies Store,Tennis Court
+6604,6,-3.726795069432717,40.44355521068528,CIUDAD UNIVERSITARIA/6,1,Restaurant,Museum,Plaza,Park,Music Venue,Garden,Coffe Shop,German Restaurant,Kebab Restaurant,Miscellaneous Shop
+6612,6,-3.670409622513098,40.40696791355658,CONDE DE CASAL/6,0,Restaurant,Grocery Store,Bar,Bakery,Gym,Brewery,Coffe Shop,Gourmet Shop,Korean Restaurant,Indian Restaurant
+6658,6,-3.712297357886012,40.44635715962408,GUZMAN EL BUENO/6,1,Restaurant,Bar,Tapas Restaurant,Park,Hotel,Fish Market,Soccer Field,Lounge,Bakery,Plaza
+6687,6,-3.7443003611694317,40.39922754347372,LAGUNA/6,0,Asian Restaurant,Pizza Place,Plaza,Lake,Park,Tapas Restaurant,Bar,Tea Room,German Restaurant,Kebab Restaurant
+6698,6,-3.745343133463092,40.405094727976405,LUCERO/6,2,Pizza Place,Asian Restaurant,Snack Place,Bar,Grocery Store,Gym,Supermarket,Falafel Restaurant,Park,Sandwich Place
+6709,6,-3.6781422464152858,40.395373186053256,MENDEZ ALVARO/6,3,Coffe Shop,Restaurant,Italian Restaurant,Argentinian Restaurant,Mediterranean Restaurant,Cafeteria,Beer Garden,Department Store,Convenience Store,Asian Restaurant
+6736,6,-3.719432369777448,40.44643009120298,METROPOLITANO/6,1,Restaurant,Tapas Restaurant,College Residence Hall,German Restaurant,Gym Pool,Lake,Office,Shoe Store,Wine Shop,Art Museum
+6741,6,-3.6685990513216953,40.42288839037709,O'DONNELL/6,1,Restaurant,Tapas Restaurant,Coffe Shop,Bar,Bakery,Grocery Store,Gym,Seafood Restaurant,Ice Cream Shop,Cocktail Bar
+6787,6,-3.723134262030649,40.38690230656425,OPAÑEL/6,0,Bar,Restaurant,Colombian Restaurant,Grocery Store,Gym,Supermarket,Nightclub,Plaza,Bakery,Burger Joint
+6798,6,-3.727241955574144,40.413894717383116,PUERTA DEL ANGEL/6,1,Restaurant,Grocery Store,Farmers Market,Circus,Food & Drink Shop,Nightclub,Snack Place,Sporting Goods Shop,Concert Hall,Diner
+6826,6,-3.684064545714558,40.443788941460426,REPUBLICA ARGENTINA/6,1,Restaurant,Coffe Shop,Italian Restaurant,Plaza,Gourmet Shop,Snack Place,Bridal Shop,Sushi Restaurant,Diner,Toy / Game Store
+6859,6,-3.6695234555781413,40.41506318581949,SAINZ DE BARANDA/6,1,Restaurant,Italian Restaurant,Brewery,Plaza,Burger Joint,Pool,Athletics & Sports,Sports Club,Cocktail Bar,Indian Restaurant
+6894,6,-3.7069010072851833,40.38709277398245,USERA/6,2,Grocery Store,Fast Food Restaurant,Restaurant,Bakery,BBQ Joint,Pool,Noodle House,Gastropub,Soccer Field,Pub
+6909,7A,-3.6992550788031178,40.438373729875,ALONSO CANO/7A,0,Restaurant,Tapas Restaurant,Bar,Theater,Mexican Restaurant,Italian Restaurant,Japanese Restaurant,Coffe Shop,Building,Bistro
+6963,7A,-3.7177043655225055,40.47021551543151,ANTONIO MACHADO/7A,0,Restaurant,Park,Mediterranean Restaurant,Coffe Shop,Pharmacy,Tapas Restaurant,Gym,Supermarket,Soccer Field,Building
+6974,7A,-3.641060838278901,40.4301975485955,ASCAO/7A,2,Restaurant,Supermarket,Spa,Peruvian Restaurant,Brewery,Pub,Massage Studio,Hobby Shop,Pizza Place,Grocery Store
+6987,7A,-3.7184112591111615,40.48009393979854,AVDA. DE LA ILUSTRACION/7A,2,Tapas Restaurant,Restaurant,Comic Shop,Diner,Convenience Store,Argentinian Restaurant,Italian Restaurant,Bakery,Fast Food Restaurant,Soccer Field
+7001,7A,-3.652004710876878,40.4390913221314,BARRIO DE LA CONCEPCION/7A,0,Restaurant,Tapas Restaurant,Grocery Store,Park,Butcher,Coffe Shop,Bar,Supermarket,Diner,Mexican Restaurant
+7023,7A,-3.672157754508404,40.43933626219725,CARTAGENA/7A,3,Restaurant,Japanese Restaurant,Pizza Place,Hotel,Seafood Restaurant,Tapas Restaurant,Coffe Shop,Wine Bar,Burger Joint,Cosmetics Shop
+7056,7A,-3.6001566460057206,40.433390115428594,ESTADIO OLIMPICO/7A,2,Playground,Park,Argentinian Restaurant,Beer Bar,Soccer Stadium,Seafood Restaurant,Sports Club,Sporting Goods Shop,Hostel,Flea Market
+7065,7A,-3.712392392186851,40.45647366576084,FRANCOS RODRIGUEZ/7A,0,Coffe Shop,Bar,Restaurant,Pool,Gym,Plaza,Steakhouse,Electronics Store,Park,Chinese Restaurant
+7085,7A,-3.6333103671517417,40.4284204389523,GARCIA NOBLEJAS/7A,0,Coffe Shop,Restaurant,Supermarket,Park,Bar,Asian Restaurant,Gym,Plaza,Breakfast Spot,Food
+7101,7A,-3.71374135431468,40.43905997233827,ISLAS FILIPINAS/7A,0,Restaurant,Bar,Coffe Shop,Bakery,Beer Garden,Pub,Seafood Restaurant,Pizza Place,Burrito Place,Sports Bar
+7142,7A,-3.723053448492279,40.48501089648855,LACOMA/7A,0,Bar,Tapas Restaurant,Chinese Restaurant,Bakery,Restaurant,Park,BBQ Joint,Argentinian Restaurant,Brewery,Pub
+7159,7A,-3.6078871300557416,40.43298035455762,LAS MUSAS/7A,2,Fast Food Restaurant,Seafood Restaurant,Coffe Shop,Grocery Store,Pizza Place,Plaza,Park,Bakery,Pet Store,Miscellaneous Shop
+7168,7A,-3.662973683741616,40.439443351234395,PARQUE DE LAS AVENIDAS/7A,1,Restaurant,Park,Hotel,Bar,Grocery Store,Soccer Field,Pool Hall,Coffe Shop,Bakery,Fast Food Restaurant
+7187,7A,-3.7158303579251375,40.475920794508795,PEÑAGRANDE/7A,0,Restaurant,Tapas Restaurant,Diner,Gym,Pizza Place,Bakery,Farmers Market,Convenience Store,Soccer Field,Kebab Restaurant
+7215,7A,-3.625725983210804,40.42798425779679,SIMANCAS/7A,1,Park,Restaurant,Supermarket,Music Venue,Gym Pool,Lake,Office,Shoe Store,Arcade,Wine Shop
+7220,7A,-3.71598379538069,40.464820810147145,VALDEZARZA/7A,1,Restaurant,Supermarket,Soccer Field,Pharmacy,Asian Restaurant,Gym Pool,Lake,Office,Arcade,Shoe Store
+7275,8,-3.5695410675308468,40.468644167154046,AEROPUERTO T1 T2 T3/8,3,Coffe Shop,Airport Service,Airport Terminal,Duty-free Shop,Rental Car Location,Airport Lounge,Airport Gate,Bus Station,Diner,Frozen Yogurt Shop
+7310,8,-3.593254085368613,40.491759039636115,AEROPUERTO T4/8,3,Airport Service,Restaurant,Coffe Shop,Airport Lounge,Deli / Bodega,Fast Food Restaurant,Bus Station,Accessories Store,Rental Car Location,Police Station
+7344,8,-3.5825311260580377,40.475768604419436,BARAJAS/8,1,Restaurant,Hotel,Tapas Restaurant,Argentinian Restaurant,Sandwich Place,Gastropub,Plaza,Wine Bar,Pizza Place,Brewery
+7363,8,-3.616210052023946,40.46389128127541,CAMPO DE LAS NACIONES/8,1,Restaurant,Hotel,Paella Restaurant,Arcade,Office,Clothing Store,Exhibit,Convention Center,Flea Market,Bistro
+7374,8,-3.676832402038624,40.456336002823406,COLOMBIA/8,1,Restaurant,Bar,Grocery Store,Gastropub,Japanese Restaurant,Plaza,Diner,Eastern European Restaurant,Fried Chicken Joint,Furniture / Home Store
+7435,8,-3.648674574750905,40.467992917343715,PINAR DEL REY/8,0,Restaurant,Plaza,Gymnastics Gym,Food,Music Venue,Soccer Field,Indian Restaurant,Pub,Chinese Restaurant,College Auditorium
+7450,9A,-3.6418137462853575,40.40522025828109,ARTILLEROS/9A,2,Restaurant,Shopping Mall,Playground,Optical Shop,Grocery Store,Flower Shop,Fried Chicken Joint,Plaza,Park,Skating Rink
+7461,9A,-3.703170082953557,40.47688138899434,BARRIO DEL PILAR/9A,0,Restaurant,Clothing Store,Italian Restaurant,Burger Joint,Cosmetics Shop,Chocolate Shop,Big Box Store,American Restaurant,Sporting Goods Shop,Video Game Store
+7495,9A,-3.677384730079552,40.451440884039954,CONCHA ESPINA/9A,1,Restaurant,Tapas Restaurant,Coffe Shop,Bakery,Japanese Restaurant,Bar,Pizza Place,Gastropub,Pub,German Restaurant
+7540,9A,-3.678220651650197,40.44426481662303,CRUZ DEL RAYO/9A,0,Restaurant,Bar,Grocery Store,Pizza Place,Plaza,Coffe Shop,Tapas Restaurant,Supermarket,Japanese Restaurant,Concert Hall
+7596,9A,-3.679175080845444,40.46761952315197,DUQUE DE PASTRANA/9A,1,Restaurant,Hotel,Cocktail Bar,Gym Pool,Bowling Alley,Plaza,Pub,Spa,Kebab Restaurant,Tea Room
+7604,9A,-3.6617915330011215,40.41146804102253,ESTRELLA/9A,2,Restaurant,Bar,Fast Food Restaurant,Plaza,American Restaurant,Smoke Shop,Big Box Store,Sports Club,Sandwich Place,Chinese Restaurant
+7622,9A,-3.70752239383905,40.484656572327964,HERRERA ORIA/9A,3,Bar,Hotel,Food & Drink Shop,Beer Garden,Electronics Store,Sushi Restaurant,Gym Pool,Mediterranean Restaurant,Bakery,Sculpture Garden
+7640,9A,-3.6785854582722304,40.418388748041785,IBIZA/9A,1,Restaurant,Tapas Restaurant,Coffe Shop,Seafood Restaurant,Mediterranean Restaurant,Gastropub,Bakery,Ice Cream Shop,Asian Restaurant,Harbor / Marina
+7685,9A,-3.71635730886455,40.49108857754821,MIRASIERRA/9A,2,Convenience Store,Coffe Shop,Grocery Store,Gym,Seafood Restaurant,Sports Club,Neighborhood,Miscellaneous Shop,Building,Paper / Office Supplies Store
+7692,9A,-3.7090842328356834,40.499646860142015,PACO DE LUCIA/9A,1,Restaurant,Bar,Supermarket,Playground,Tennis Court,Tennis Stadium,Burger Joint,Deli / Bodega,Gym,Tapas Restaurant
+7706,9A,-3.635122746009377,40.40050941790844,PAVONES/9A,2,Restaurant,Breakfast Spot,Tea Room,Grocery Store,Athletics & Sports,Pharmacy,Diner,German Restaurant,Building,Paper / Office Supplies Store
+7713,9A,-3.675802343419993,40.46299966943853,PIO XII/9A,1,Restaurant,Supermarket,Steakhouse,Big Box Store,Peruvian Restaurant,Arcade,Diner,Plaza,Deli / Bodega,Gym
+7734,9A,-3.602404004973017,40.40381066236725,SAN CIPRIANO/9A,2,Restaurant,Grocery Store,Market,Electronics Store,Convenience Store,Ice Cream Shop,Beer Bar,Playground,Pizza Place,Wine Bar
+7745,9A,-3.621566677060544,40.40004253874335,VALDEBERNARDO/9A,1,Restaurant,Gym,Supermarket,Food,Fast Food Restaurant,Pizza Place,Falafel Restaurant,Tapas Restaurant,Soccer Stadium,Kebab Restaurant
+7757,9A,-3.695884900062436,40.46943002884864,VENTILLA/9A,1,Restaurant,Gym,Flea Market,BBQ Joint,Library,Seafood Restaurant,Department Store,History Museum,General Entertainment,Soccer Stadium
+7766,9A,-3.6088656317893952,40.4042092535065,VICALVARO/9A,1,Restaurant,Pizza Place,Ice Cream Shop,Beer Bar,Breakfast Spot,Fast Food Restaurant,Sandwich Place,Coffe Shop,Grocery Store,Dessert Shop
+7778,9A,-3.652739766845656,40.41024020995498,VINATEROS/9A,0,Coffe Shop,Bar,Plaza,Restaurant,Pool,Ice Cream Shop,Brewery,Sandwich Place,Pub,Chinese Restaurant
+7836,C-1,-3.6628292371348286,40.484741355889604,FUENTE DE LA MORA/C-1,1,Restaurant,Park,Food,Sushi Restaurant,Brewery,Breakfast Spot,Chinese Restaurant,Mediterranean Restaurant,Italian Restaurant,Fast Food Restaurant
+7854,C-1,-3.6908601632799374,40.42340615992542,RECOLETOS/C-1,1,Restaurant,Hotel,Coffe Shop,Japanese Restaurant,Bakery,Clothing Store,Shoe Store,Accessories Store,Italian Restaurant,Art Gallery
+7958,C-10,-3.785867623306033,40.4483218454516,ARAVACA/C-10,2,Coffe Shop,Restaurant,Brewery,Trail,Paella Restaurant,Food,American Restaurant,Deli / Bodega,Sushi Restaurant,Athletics & Sports
+7975,C-10,-3.8077462504578414,40.46536911220596,"BARRIAL-C.COM.POZUELO, EL/C-10",1,Restaurant,Coffe Shop,Fast Food Restaurant,Deli / Bodega,Department Store,Argentinian Restaurant,Shopping Mall,Big Box Store,Cosmetics Shop,Burger Joint
+8086,C-2,-3.668014615023188,40.38166623843375,ASAMBLEA DE MADRID-ENTREVIAS/C-2,0,Clothing Store,Restaurant,Pizza Place,Shopping Mall,Toy / Game Store,Park,Sandwich Place,Gym,Wine Shop,Building
+8140,C-2,-3.609063933842621,40.386982804664136,SANTA EUGENIA/C-2,0,Restaurant,Farmers Market,Miscellaneous Shop,Bar,Tapas Restaurant,Gym,Supermarket,Yoga Studio,Building,Paper / Office Supplies Store
+8169,C-2,-3.6245600075556976,40.382206398678925,VALLECAS/C-2,2,Department Store,Grocery Store,Breakfast Spot,Church,Fast Food Restaurant,Deli / Bodega,Dessert Shop,Shoe Store,Building,Paper / Office Supplies Store
+8219,C-3,-3.6947457997818662,40.48823855927128,RAMON Y CAJAL/C-3,0,Restaurant,Coffe Shop,Bar,Breakfast Spot,Toy / Game Store,Diner,IT Services,Pub,Burger Joint,Nightclub
+8252,C-3,-3.6839904315941423,40.35263553750056,VILLAVERDE BAJO/C-3,2,Track Stadium,Latin American Restaurant,Tapas Restaurant,Gym,Pizza Place,Supermarket,Brewery,Event Space,Kebab Restaurant,Miscellaneous Shop
+8284,C-4A,-3.700350083538946,40.54378058046952,CANTOBLANCO UNIVERSIDAD/C-4A,3,Coffe Shop,College Gym,Pool,Paper / Office Supplies Store,Neighborhood,General Entertainment,Kebab Restaurant,Miscellaneous Shop,Building,Tennis Court
+8386,C-5,-3.7802803036935084,40.38117943069571,"AGUILAS, LAS/C-5",0,Restaurant,Bar,Shopping Mall,Gym Pool,Convenience Store,Seafood Restaurant,Park,Smoke Shop,Sporting Goods Shop,Tapas Restaurant
+8413,C-5,-3.698616796434892,40.378953851961384,DOCE DE OCTUBRE/C-5,1,Restaurant,Coffe Shop,Office,Seafood Restaurant,Big Box Store,Beer Garden,Sandwich Place,Lake,Gym Pool,Shoe Store
+8424,C-5,-3.7685747280232835,40.38364522762785,FANJUL/C-5,0,Sandwich Place,Gym,Pharmacy,Sports Club,Athletics & Sports,Tapas Restaurant,Bar,Tea Room,Miscellaneous Shop,Building
+8506,C-5,-3.7051623461266345,40.350283132442506,PUENTE ALCOCER/C-5,2,Restaurant,Grocery Store,Pizza Place,Mediterranean Restaurant,Gastropub,German Restaurant,Miscellaneous Shop,Building,Paper / Office Supplies Store,Tennis Court
